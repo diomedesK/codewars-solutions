@@ -1,0 +1,23 @@
+!*.xopp
+!*.txt
+
+# PYTHON
+/python/*.*
+/python/codewars-env/
+/python/*/__pycache__/
+!/python/*.py
+
+# JS
+/js/node_modules/
+
+# C 
+/C/*/*
+!/C/*/*.c
+
+# CLOJURE
+/clojure/*/target/
+/clojure/*/.clj-kondo/
+/clojure/*/*.md
+/clojure/*/doc/*.md
+/clojure/*/LICENSE
+/clojure/*/.*

@@ -1,0 +1,17 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jaden.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@codewars/test-compat": "^1.1.0",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
